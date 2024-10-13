@@ -1,0 +1,25 @@
+Sample PDF Document with Table and Image
+Requirements Overview
+This is a sample PDF document that contains text, hyperlinks, images, tables, and requirements for testing
+purposes.
+1. Text Extraction: Test text extraction functionality.
+2. Hyperlink Extraction: The following is an example of a hyperlink: 
+   - OpenAI website: https://www.openai.com
+3. Metadata Extraction: Capture page numbers, font styles, headings.
+4. Image Extraction: The document now contains an image for testing purposes.
+5. Table Extraction: The table below should be extracted correctly.
+Ensure the system correctly identifies and extracts metadata for each element.
+OpenAI website
+Sample Table
+Column 1
+Column 2
+Column 3
+Row 1, Col 1
+Row 1, Col 2
+Row 1, Col 3
+Row 2, Col 1
+Row 2, Col 2
+Row 2, Col 3
+Row 3, Col 1
+Row 3, Col 2
+Row 3, Col 3
